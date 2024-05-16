@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-05-16T07:48:51+00:00</updated><id>/feed.xml</id><entry><title type="html">Bootstrap简介</title><link href="/2024/05/09/Bootstrap%E7%AE%80%E4%BB%8B.html" rel="alternate" type="text/html" title="Bootstrap简介" /><published>2024-05-09T00:00:00+00:00</published><updated>2024-05-09T00:00:00+00:00</updated><id>/2024/05/09/Bootstrap%E7%AE%80%E4%BB%8B</id><content type="html" xml:base="/2024/05/09/Bootstrap%E7%AE%80%E4%BB%8B.html"><![CDATA[<div class="container">
+  <div class="jumbotron">
+    <h1>我的第一个 Bootstrap 页面</h1>
+    <p>重置窗口大小，查看响应式效果！</p> 
+  </div>
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>Column 1</h3>
+      <p>学的不仅是技术，更是梦想！</p>
+      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 2</h3>
+      <p>学的不仅是技术，更是梦想！</p>
+      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 3</h3> 
+      <p>学的不仅是技术，更是梦想！</p>
+      <p>再牛逼的梦想,也抵不住你傻逼似的坚持！</p>
+    </div>
+  </div>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[我的第一个 Bootstrap 页面 重置窗口大小，查看响应式效果！ Column 1 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！ Column 2 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！ Column 3 学的不仅是技术，更是梦想！ 再牛逼的梦想,也抵不住你傻逼似的坚持！]]></summary></entry><entry><title type="html">Bootstrap网格系统</title><link href="/2024/05/09/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F.html" rel="alternate" type="text/html" title="Bootstrap网格系统" /><published>2024-05-09T00:00:00+00:00</published><updated>2024-05-09T00:00:00+00:00</updated><id>/2024/05/09/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F</id><content type="html" xml:base="/2024/05/09/Bootstrap%E7%BD%91%E6%A0%BC%E7%B3%BB%E7%BB%9F.html"><![CDATA[<div class="container">
+    <div class="row">
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+            box-shadow: inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;box-shadow: 
+        inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+            nisi ut aliquip ex ea commodo consequat.
+            </p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+            eiusmod tempor incididunt ut. 
+            </p>
+        </div>
+ 
+        <div class="clearfix visible-xs"></div>
+ 
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;
+        box-shadow:inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco 
+            laboris nisi ut aliquip ex ea commodo consequat. 
+            </p>
+        </div>
+        <div class="col-xs-6 col-sm-3" style="background-color: #dedef8;box-shadow: 
+        inset 1px -1px 1px #444, inset -1px 1px 1px #444;">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
+            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut 
+            enim ad minim 
+            </p>
+        </div>
+    </div>
+</div>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim]]></summary></entry><entry><title type="html">Bootstrap面包屑导航</title><link href="/2024/05/09/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA.html" rel="alternate" type="text/html" title="Bootstrap面包屑导航" /><published>2024-05-09T00:00:00+00:00</published><updated>2024-05-09T00:00:00+00:00</updated><id>/2024/05/09/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA</id><content type="html" xml:base="/2024/05/09/Bootstrap%E9%9D%A2%E5%8C%85%E5%B1%91%E5%AF%BC%E8%88%AA.html"><![CDATA[<ul class="breadcrumb">
+    <li><a href="#">Home</a></li>
+    <li><a href="#">2013</a></li>
+    <li class="active">十一月</li>
+</ul>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[Home 2013 十一月]]></summary></entry><entry><title type="html">Kiwifruit</title><link href="/2018/08/22/kiwifruit.html" rel="alternate" type="text/html" title="Kiwifruit" /><published>2018-08-22T00:00:00+00:00</published><updated>2018-08-22T00:00:00+00:00</updated><id>/2018/08/22/kiwifruit</id><content type="html" xml:base="/2018/08/22/kiwifruit.html"><![CDATA[<p>Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the
+edible berry of several species of woody vines in the genus Actinidia.</p>
+
+<p>The most common cultivar group of kiwifruit is oval, about the size of
+a large hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm
+(1.8–2.2 in) in diameter). It has a fibrous, dull greenish-brown skin
+and bright green or golden flesh with rows of tiny, black, edible
+seeds. The fruit has a soft texture, with a sweet and unique flavor.</p>]]></content><author><name>ted</name></author><summary type="html"><![CDATA[Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.]]></summary></entry><entry><title type="html">Apples</title><link href="/2018/08/21/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2018-08-21T00:00:00+00:00</published><updated>2018-08-21T00:00:00+00:00</updated><id>/2018/08/21/apples</id><content type="html" xml:base="/2018/08/21/apples.html"><![CDATA[<p>An apple is a sweet, edible fruit produced by an apple tree.</p>
+
+<p>Apple trees are cultivated worldwide, and are the most widely grown
+species in the genus Malus. The tree originated in Central Asia, where
+its wild ancestor, Malus sieversii, is still found today. Apples have
+been grown for thousands of years in Asia and Europe, and were brought
+to North America by European colonists.</p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[An apple is a sweet, edible fruit produced by an apple tree.]]></summary></entry><entry><title type="html">Bananas</title><link href="/2018/08/20/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2018-08-20T00:00:00+00:00</published><updated>2018-08-20T00:00:00+00:00</updated><id>/2018/08/20/bananas</id><content type="html" xml:base="/2018/08/20/bananas.html"><![CDATA[<p>A banana is an edible fruit – botanically a berry – produced by several
+kinds of large herbaceous flowering plants in the genus Musa.</p>
+
+<p>In some countries, bananas used for cooking may be called “plantains”,
+distinguishing them from dessert bananas. The fruit is variable in size,
+color, and firmness, but is usually elongated and curved, with soft
+flesh rich in starch covered with a rind, which may be green, yellow,
+red, purple, or brown when ripe.</p>]]></content><author><name>jill</name></author><summary type="html"><![CDATA[A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.]]></summary></entry></feed>
